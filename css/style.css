@@ -1,0 +1,10 @@
+@media (min-width: 1200px) {
+  body {
+    background-color: red;
+  }
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+}
